@@ -1,1 +1,3 @@
 applovin.com, 396db4e8302d3ee265b1eb945c4e6f52, DIRECT
+facebook.com, 406683376724621, DIRECT, c3e20eee3f780d68
+google.com, pub-5037882641421856, DIRECT, f08c47fec0942fa0
